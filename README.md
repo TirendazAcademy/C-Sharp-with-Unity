@@ -1,4 +1,4 @@
-# Hello 😄 This repository contains C# Tutorial with Unity for Game Development
+# Hello 😄 This repository contains C# tutorial with Unity for game development
 
 ![](https://images.unsplash.com/photo-1556438064-2d7646166914?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
 
