@@ -7,13 +7,13 @@
 
 # Medium  [![](https://img.shields.io/badge/Medium-Turkish-purple.svg?&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
 
-## [Unity Nedir | İndirme & Kurulum | Unity Kullanımı](https://tirendazakademi.medium.com/unity-nedir-i%CC%87ndirme-kurulum-unity-kullan%C4%B1m%C4%B1-3ee35cca63b5?source=your_stories_page-------------------------------------)
+## [01-Unity Nedir | İndirme & Kurulum | Unity Kullanımı](https://tirendazakademi.medium.com/unity-nedir-i%CC%87ndirme-kurulum-unity-kullan%C4%B1m%C4%B1-3ee35cca63b5?source=your_stories_page-------------------------------------)
 
-## [C# Değişken & Metot & Sınıf Nedir?](https://tirendazakademi.medium.com/de%C4%9Fi%C5%9Fken-metot-s%C4%B1n%C4%B1f-nedir-unity-ile-c-dersleri-28d85522d536?source=your_stories_page-------------------------------------)
+## [02-C# Değişken & Metot & Sınıf Nedir?](https://tirendazakademi.medium.com/de%C4%9Fi%C5%9Fken-metot-s%C4%B1n%C4%B1f-nedir-unity-ile-c-dersleri-28d85522d536?source=your_stories_page-------------------------------------)
 
-## [C# Değişken & Metot Tanımlama](https://tirendazakademi.medium.com/c-de%C4%9Fi%C5%9Fken-metot-tan%C4%B1mlama-unity-ile-c-sharp-dersleri-89d7b4a4931a?source=your_stories_page-------------------------------------)
+## [03-C# Değişken & Metot Tanımlama](https://tirendazakademi.medium.com/c-de%C4%9Fi%C5%9Fken-metot-tan%C4%B1mlama-unity-ile-c-sharp-dersleri-89d7b4a4931a?source=your_stories_page-------------------------------------)
 
-## [C# Kontrol Deyimleri & Kolleksiyon Yapıları](https://tirendazakademi.medium.com/c-kontrol-deyimleri-kolleksiyon-yap%C4%B1lar%C4%B1-unity-ile-c-sharp-dersleri-facc626332e5?source=your_stories_page-------------------------------------)
+## [04-C# Kontrol Deyimleri & Kolleksiyon Yapıları](https://tirendazakademi.medium.com/c-kontrol-deyimleri-kolleksiyon-yap%C4%B1lar%C4%B1-unity-ile-c-sharp-dersleri-facc626332e5?source=your_stories_page-------------------------------------)
 
 
 
