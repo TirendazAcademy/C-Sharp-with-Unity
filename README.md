@@ -17,7 +17,7 @@
 
 ## [04-C# Control Flow & Collection Types (Kontrol Deyimleri & Kolleksiyon Yapıları)](https://tirendazakademi.medium.com/c-kontrol-deyimleri-kolleksiyon-yap%C4%B1lar%C4%B1-unity-ile-c-sharp-dersleri-facc626332e5?source=your_stories_page-------------------------------------)
 
-## [05-C# Classes & Strucs (OOP) )](https://tirendazakademi.medium.com/c-s%C4%B1n%C4%B1f-ve-struct-c-sharp-nesne-tabanl%C4%B1-y%C3%B6nelimli-programlama-2135069faef?source=your_stories_page-------------------------------------)
+## [05-C# Classes & Strucs & OOP (Nesne Tabanlı Programlamaya Giriş)](https://tirendazakademi.medium.com/c-s%C4%B1n%C4%B1f-ve-struct-c-sharp-nesne-tabanl%C4%B1-y%C3%B6nelimli-programlama-2135069faef?source=your_stories_page-------------------------------------)
 
 
 
