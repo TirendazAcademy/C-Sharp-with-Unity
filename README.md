@@ -4,7 +4,7 @@
 
 ## Hello Everyone Welcome to C# with Unity Tutorial 😄 
 
-### Unity is one of the most used platforms for game development. C # programming language is used when developing games with Unity. This repo contains the C # codes of my videos on [YouTube](https://youtube.com/c/TirendazAkademi) and my [Medium](https//tirendazakademi.medium.com) blog posts.
+### Unity is one of the most used platforms for game development. C# programming language is used when developing games with Unity. This repo contains the C# codes of my videos on [YouTube](https://youtube.com/c/TirendazAkademi) and my [Medium](https//tirendazakademi.medium.com) blog posts.
 
 
 # Medium  [![](https://img.shields.io/badge/Medium-Turkish-purple.svg?&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
