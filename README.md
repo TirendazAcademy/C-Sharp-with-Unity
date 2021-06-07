@@ -9,7 +9,7 @@
 
 # Medium  [![](https://img.shields.io/badge/Medium-Turkish-purple.svg?&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
 
-### [01-C# Introduction to C Sharp (Unity Nedir | İndirme & Kurulum | Unity Kullanımı)](https://tirendazakademi.medium.com/unity-nedir-i%CC%87ndirme-kurulum-unity-kullan%C4%B1m%C4%B1-3ee35cca63b5?source=your_stories_page-------------------------------------)
+### [01-Introduction to Unity and C# (Unity Nedir | İndirme & Kurulum | Unity Kullanımı)](https://tirendazakademi.medium.com/unity-nedir-i%CC%87ndirme-kurulum-unity-kullan%C4%B1m%C4%B1-3ee35cca63b5?source=your_stories_page-------------------------------------)
 
 ### [02-C# Variables & Methods & Classes (Değişken & Metot & Sınıf Nedir?)](https://tirendazakademi.medium.com/de%C4%9Fi%C5%9Fken-metot-s%C4%B1n%C4%B1f-nedir-unity-ile-c-dersleri-28d85522d536?source=your_stories_page-------------------------------------)
 
@@ -23,7 +23,7 @@
 
 ## YouTube 👉  [![](https://img.shields.io/badge/YouTube-Turkish-deeppink?&logo=youtube&logoColor=white)](https://www.youtube.com/tirendazakademi)
 
-### [01-C# Introduction to C Sharp (Unity Nedir | İndirme & Kurulum | Unity Kullanımı)](https://www.youtube.com/watch?v=n5ZflJVTXXw)
+### [01-Introduction to Unity and C# (Unity Nedir | İndirme & Kurulum | Unity Kullanımı)](https://www.youtube.com/watch?v=n5ZflJVTXXw)
 
 
 
