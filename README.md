@@ -4,12 +4,12 @@
 
 ## Hello Everyone Welcome to C# with Unity Tutorial 😄 
 
-### Unity is one of the most used platforms for game development. C # programming language is used when developing games with Unity. This repo contains the C # codes of my videos on [YouTube](https://youtube.com/c/TirendazAkademi) and my [Medium](https//tirendazakademi.medium.com) blog posts.
+### Unity is one of the most used platforms for game development. C# programming language is used when developing games with Unity. This repo contains the C# codes of my videos on [YouTube](https://youtube.com/c/TirendazAkademi) and my [Medium](https//tirendazakademi.medium.com) blog posts.
 
 
 # Medium  [![](https://img.shields.io/badge/Medium-Turkish-purple.svg?&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
 
-### [01-C# Introduction to C Sharp (Unity Nedir | İndirme & Kurulum | Unity Kullanımı)](https://tirendazakademi.medium.com/unity-nedir-i%CC%87ndirme-kurulum-unity-kullan%C4%B1m%C4%B1-3ee35cca63b5?source=your_stories_page-------------------------------------)
+### [01-Introduction to Unity and C# (Unity Nedir | İndirme & Kurulum | Unity Kullanımı)](https://tirendazakademi.medium.com/unity-nedir-i%CC%87ndirme-kurulum-unity-kullan%C4%B1m%C4%B1-3ee35cca63b5?source=your_stories_page-------------------------------------)
 
 ### [02-C# Variables & Methods & Classes (Değişken & Metot & Sınıf Nedir?)](https://tirendazakademi.medium.com/de%C4%9Fi%C5%9Fken-metot-s%C4%B1n%C4%B1f-nedir-unity-ile-c-dersleri-28d85522d536?source=your_stories_page-------------------------------------)
 
@@ -21,6 +21,9 @@
 
 ### [06-C# Object-Oriented Programming (Nesne Tabanlı Programlama)](https://tirendazakademi.medium.com/c-nesne-tabanl%C4%B1-y%C3%B6nelimli-programlama-unity-ile-c-sharp-dersleri-79fa52ac59c7?source=your_stories_page-------------------------------------)
 
+## YouTube 👉  [![](https://img.shields.io/badge/YouTube-Turkish-deeppink?&logo=youtube&logoColor=white)](https://www.youtube.com/tirendazakademi)
+
+### [01-Introduction to Unity and C# (Unity Nedir | İndirme & Kurulum | Unity Kullanımı)](https://www.youtube.com/watch?v=n5ZflJVTXXw)
 
 
 
