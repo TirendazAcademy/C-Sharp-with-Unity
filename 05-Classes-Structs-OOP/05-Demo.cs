@@ -20,6 +20,7 @@ public class Demo : MonoBehaviour
         kadin_kahraman.BilgiYazdir();
 
         Silah avciYayi = new Silah("Avcı Yayı", 105);
+		avciYayi.SilahBilgiYazdir();
         */
 
         /*
