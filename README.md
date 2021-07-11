@@ -27,6 +27,14 @@
 
 ### 02- [C# Variables & Methods & Classes (Değişken & Metot & Sınıf Nedir?)](https://www.youtube.com/watch?v=zPilnfEjWV8)
 
+### 03- [C# Working with Variables and Methods (Değişken & Metotlar ile Çalışmak)](https://www.youtube.com/watch?v=FpY0XoKMqzM&list=PLfMRLSpipmfsFB4jMwbVlHh8kLRXjFdaT&index=3)
+
+### 04- [C# Control Flow & Collection Types (Kontrol Deyimleri & Kolleksiyon Yapıları)](https://www.youtube.com/watch?v=S3b67mBTuqc&list=PLfMRLSpipmfsFB4jMwbVlHh8kLRXjFdaT&index=4)
+
+### 05- [C# Classes & Strucs & OOP (Nesne Tabanlı Programlamaya Giriş)](https://www.youtube.com/watch?v=alBO2AQDGbo&list=PLfMRLSpipmfsFB4jMwbVlHh8kLRXjFdaT&index=5)
+
+### 06- [C# Object-Oriented Programming (Nesne Tabanlı Programlama)](https://www.youtube.com/watch?v=YtNKTF5HCRM&list=PLfMRLSpipmfsFB4jMwbVlHh8kLRXjFdaT&index=6)
+
 
 
 
