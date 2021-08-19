@@ -22,7 +22,7 @@
 
 ### 07- [Unity Editor](https://www.youtube.com/watch?v=TRUOKIDhGBI)
 
-### 08- [Following Camera - Collider - Collision](https://www.youtube.com/watch?v=BmkhTYCgY_8)
+### 08- [Moving Player - Following Camera - Collider - Collision](https://www.youtube.com/watch?v=BmkhTYCgY_8)
 
 # Medium  [![](https://img.shields.io/badge/Medium-Turkish-purple.svg?&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
 
